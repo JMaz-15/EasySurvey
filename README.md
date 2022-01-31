@@ -7,6 +7,7 @@ Mobile Device Programming Final Project Repo
 2. Storyboards
 
 
+[Storyboards.pptx](https://github.com/JMaz-15/EasySurvey/files/7967340/Storyboards.pptx)
 
 
 3. Given When Then
@@ -38,4 +39,5 @@ Jeremy Mazurowski - Product Owner / Developer
 
 9. Teams Link
 
+![Scrum](https://user-images.githubusercontent.com/65188299/151725463-68243777-6da7-4707-92a6-03e84fc6b795.PNG)
 
